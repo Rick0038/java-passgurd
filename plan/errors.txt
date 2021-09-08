@@ -1,0 +1,6 @@
+1) Input Mismatch 
+	Given un rec inp in switch
+2) Spacing 
+3) No output at wrong entry 
+4) Check no entry present in update 
+5) Highlight Database output 

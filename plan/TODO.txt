@@ -1,0 +1,2 @@
+1) Need to add data enctyption 
+2) Need to add a hash based auth system
